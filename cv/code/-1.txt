@@ -1,3 +1,0 @@
-e 32: brew install tesseract tesseract-lang
-e ubantu: apt install tesseract tesseract-lang
-e windows: ki_F FattesseracttZ#a.
