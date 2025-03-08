@@ -8,7 +8,7 @@
 - [AI_notes](./AI_notes/AI_notes.md)
 - [CV](./cv/cv.md)
 - [NLP](./nlp/nlp.md)
-- [Papers](./Papers/Papers.md)
+- [Papers](./papers/papers.md)
 
 ## 最佳阅读方式
 🔗 访问我的 [CSDN 博客](https://blog.csdn.net/qq_56591814) 获取完整内容与动态更新。
