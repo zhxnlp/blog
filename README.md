@@ -5,7 +5,7 @@
 
 
 ## 目录索引
-- [AI notes](./AI notes/AI notes.md)
+- [AI_notes](./AI_notes/AI_notes.md)
 - [CV](./cv/cv.md)
 - [NLP](./nlp/nlp.md)
 - [Papers](./Papers/Papers.md)
